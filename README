@@ -17,5 +17,7 @@ The application takes the texts stored in target/input.csv. You can change the t
 
 Note: Don't have any spaces between , and " because then the CSV parser will break.
 
+Build from source
+------------------
+mvn assembly:single
 
-Build from source: mvn assembly:single
