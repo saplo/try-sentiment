@@ -11,7 +11,7 @@ Quick Start
 Slightly more advanced
 ------------------------
 
-The application takes the texts stored in target/input.csv. 
+The application takes the texts stored in input.csv. 
 You can change the text, though it is important you use the following structure:
 
 "text","target_word"
